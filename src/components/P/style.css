@@ -1,0 +1,6 @@
+.paragraph {
+  color: var(--dark-grey);
+  margin-bottom: 0;
+  font-size: 0.98rem;
+  line-height: 1.7rem;
+}

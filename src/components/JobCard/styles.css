@@ -1,0 +1,29 @@
+.job-card {
+  background-color: var(--white);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.job-card__logo {
+  background-size: 27px;
+  height: 45px;
+  width: 45px;
+  transform: translate(55%, -50%) !important;
+}
+.job-card__info {
+  color: var(--dark-grey);
+  font-size: 0.95rem;
+}
+
+.job-card__position {
+  color: var(--very-dark-blue);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.dark-mode .job-card__position {
+  opacity: 0.9;
+}
+
+.job-card__location {
+  color: var(--violet) !important;
+  text-align: start !important;
+}

@@ -1,0 +1,23 @@
+.bg-center {
+  background-position: center;
+}
+
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
+.font-weight-7 {
+  font-weight: 700;
+}
+
+.transition {
+  transition: background 1s ease-in;
+}
