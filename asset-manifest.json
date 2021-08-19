@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/jobs-app/static/css/main.0ea28451.chunk.css",
+    "main.js": "/jobs-app/static/js/main.9e6fa37a.chunk.js",
+    "main.js.map": "/jobs-app/static/js/main.9e6fa37a.chunk.js.map",
+    "runtime-main.js": "/jobs-app/static/js/runtime-main.9d0cae48.js",
+    "runtime-main.js.map": "/jobs-app/static/js/runtime-main.9d0cae48.js.map",
+    "static/css/2.818011ed.chunk.css": "/jobs-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.d2269043.chunk.js": "/jobs-app/static/js/2.d2269043.chunk.js",
+    "static/js/2.d2269043.chunk.js.map": "/jobs-app/static/js/2.d2269043.chunk.js.map",
+    "static/css/3.3acd14a6.chunk.css": "/jobs-app/static/css/3.3acd14a6.chunk.css",
+    "static/js/3.a35616d3.chunk.js": "/jobs-app/static/js/3.a35616d3.chunk.js",
+    "static/js/3.a35616d3.chunk.js.map": "/jobs-app/static/js/3.a35616d3.chunk.js.map",
+    "index.html": "/jobs-app/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/jobs-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/3.3acd14a6.chunk.css.map": "/jobs-app/static/css/3.3acd14a6.chunk.css.map",
+    "static/css/main.0ea28451.chunk.css.map": "/jobs-app/static/css/main.0ea28451.chunk.css.map",
+    "static/js/2.d2269043.chunk.js.LICENSE.txt": "/jobs-app/static/js/2.d2269043.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/jobs-app/static/media/icon-sun.9422c153.svg",
+    "static/media/blogr.svg": "/jobs-app/static/media/blogr.68f4bc4b.svg",
+    "static/media/coffeeroasters.svg": "/jobs-app/static/media/coffeeroasters.70ce77da.svg",
+    "static/media/creative.svg": "/jobs-app/static/media/creative.af94119f.svg",
+    "static/media/crowdfund.svg": "/jobs-app/static/media/crowdfund.1aee1724.svg",
+    "static/media/styles.css": "/jobs-app/static/media/icon-search.da653cb6.svg",
+    "static/media/logo.8c0b6449.svg": "/jobs-app/static/media/logo.8c0b6449.svg",
+    "static/media/maker.svg": "/jobs-app/static/media/maker.b6f34b79.svg",
+    "static/media/mastercraft.svg": "/jobs-app/static/media/mastercraft.a98383d0.svg",
+    "static/media/officelite.svg": "/jobs-app/static/media/officelite.34773de6.svg",
+    "static/media/pod.svg": "/jobs-app/static/media/pod.3c73e377.svg",
+    "static/media/pomodoro.svg": "/jobs-app/static/media/pomodoro.a786dc9a.svg",
+    "static/media/scoot.svg": "/jobs-app/static/media/scoot.345a4bfd.svg",
+    "static/media/typemaster.svg": "/jobs-app/static/media/typemaster.a31ba959.svg",
+    "static/media/vector.svg": "/jobs-app/static/media/vector.d9c0112a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0cae48.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.d2269043.chunk.js",
+    "static/css/main.0ea28451.chunk.css",
+    "static/js/main.9e6fa37a.chunk.js"
+  ]
+}
